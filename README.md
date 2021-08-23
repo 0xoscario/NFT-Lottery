@@ -1,4 +1,4 @@
-# Non Fungible Token Lottery
+# NFT Lottery
 
 ## About
 This application uses enigma's secret contracts and ethereum's smart contracts to create a private [NFT](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) lottery. 
