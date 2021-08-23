@@ -1,0 +1,7 @@
+node_modules/
+build/**
+!build/.gitkeep
+target/
+.next/
+.env
+notes.txt
